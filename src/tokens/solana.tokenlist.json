@@ -14045,19 +14045,32 @@
         "website": "https://boit.club"
       }
     },
+    
     {
       "chainId": 101,
-      "address": "FTD9EisrsMt5TW5wSTMqyXLh2o7xTb6KNuTiXgHhw8Q8",
-      "symbol": "PLAY",
-      "name": "POLYPLAY",
+      "address": "72FzkmpjqXQunY1UvrYDYhCj3mtPYExbWq7wFBSuxmHA",
+      "symbol": "BOIT",
+      "name": "BOIT Token",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/assets/FTD9EisrsMt5TW5wSTMqyXLh2o7xTb6KNuTiXgHhw8Q8/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/72FzkmpjqXQunY1UvrYDYhCj3mtPYExbWq7wFBSuxmHA/logo.png",
       "tags": [],
       "extensions": {
-        "website": "https://polyplay.net/",
-        "coingeckoId": "polyplay",
-        "twitter": "https://twitter.com/polyplaycoin",
-        "discord": "https://discord.gg/TAgndUz2Fc"
+        "website": "https://boit.club"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EB1arnkNZJCV4A9wUUMJPGq7oJdZqA8LmtUfnHMDmWxe",
+      "symbol": "SLY",
+      "name": "Solty",
+      "decimals": 8,
+      "logoURI": "https://github.com/Raahim181/tokenlogo/blob/main/Colorful%20Sound%20Waves%20Music%20App%20Logo.png",
+      "tags": [],
+      "extensions": {
+        "website": "",
+        "coingeckoId": "",
+        "twitter": "",
+        "discord": "https://discord.gg/UTkR6GvzaJ"
       }
     }
   ],
